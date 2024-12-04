@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BuildNumberApplication (static)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="build-number" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.buildnumber.BuildNumberApplication" />
+    <option name="VM_PARAMETERS" value="-DbuildNumber=987" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
